@@ -1,0 +1,27 @@
+# Enforce LF line endings for Python
+*.py text eol=lf
+
+# Mark shell scripts as LF
+*.sh text eol=lf
+
+# JSON, YAML configs
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Binary files (don't diff)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+
+# SQLite DBs
+*.db binary
+
+# Jupyter notebooks
+*.ipynb text
+
+# Documentation
+*.md text eol=lf

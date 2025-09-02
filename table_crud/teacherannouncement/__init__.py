@@ -1,0 +1,1 @@
+from .route import teach_announcement_route

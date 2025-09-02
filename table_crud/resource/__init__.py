@@ -1,0 +1,1 @@
+from .route import resource_route

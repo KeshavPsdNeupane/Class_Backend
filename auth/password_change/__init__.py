@@ -1,0 +1,1 @@
+from .route import password_change_route
