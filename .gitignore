@@ -23,7 +23,7 @@ env/
 Thumbs.db
 
 # Migrations (if Alembic or Django-like)
-migrations/
+migrations/versions/
 
 # Caches
 .cache/
